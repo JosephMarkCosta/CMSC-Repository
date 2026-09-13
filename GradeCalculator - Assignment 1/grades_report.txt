@@ -1,0 +1,9 @@
+CMSC203 Computer Science I
+Alex Johnson
+Projects (40%): Average = 94.50 Weighted = 37.80
+Quizzes (30%): Average = 81.25 Weighted = 24.38
+Exams (30%): Average = 88.00 Weighted = 26.40
+Overall Numeric Average: 88.58
+Base Letter Grade: B
+Final Letter Grade: B+
+Configuration is Valid and was Used
