@@ -1,0 +1,17 @@
+Total Sales: $305.74
+Average Sales: $76.44
+
+The Total in Row 0 is: $168.13
+The Total in Row 1 is: $137.61
+
+The Total in Col 0 is: $153.48
+The Total in Col 1 is: $152.26
+
+The Highest in Row 0 is: $100.23
+The Highest in Row 1 is: $84.36
+
+The Lowest in Row 0 is: $67.90
+The Lowest in Row 1 is: $53.25
+
+The Highest in The Array is: $100.23
+The Lowest in The Array is: $53.25
